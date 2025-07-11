@@ -1,0 +1,15 @@
+name = "Witthawin Homon"
+nickname = "T"
+address = "9/112 พันท้ายนรสิงค์ สมุทรสาคร"
+age = "16"
+grade = "ม.5"
+favorite_food = "Cake"
+tech_interest = "graphic"
+
+print("ชื่อ-สกุล :", name)
+print("ชื่อเล่น :", nickname)
+print("ที่อยู่ :", address)
+print("อายุ :", age)
+print("ชั้น :", grade)
+print("อาหารที่ชอบ :", favorite_food)
+print("ชอบอะไรด้านเทคโนโลยี :", tech_interest)
